@@ -2,13 +2,8 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demindis&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demindis&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-  <br />
-</div>
+![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![demindis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=demindis&theme=vue-dark&hide_border=true)
+
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
