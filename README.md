@@ -4,13 +4,6 @@
 
 Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL, and chess :)
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![demindis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=demindis&theme=vue-dark&hide_border=true)
-
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
 
 
 [telegram-news-badge]: https://img.shields.io/badge/demindis-Telegram-blue?style=flat&logo=Telegram
@@ -34,6 +27,10 @@ Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![demindis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=demindis&theme=vue-dark&hide_border=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
