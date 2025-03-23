@@ -2,12 +2,16 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
+Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL, and chess :)
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 ![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![demindis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=demindis&theme=vue-dark&hide_border=true)
 
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL, and chess :)
+
 
 [telegram-news-badge]: https://img.shields.io/badge/demindis-Telegram-blue?style=flat&logo=Telegram
 [telegram-news]: https://t.me/demindis
