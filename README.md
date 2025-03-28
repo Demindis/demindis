@@ -30,7 +30,7 @@ Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![demindis's Stats](https://github-readme-stats.vercel.app/api?username=demindis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
