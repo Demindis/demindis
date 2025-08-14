@@ -9,8 +9,7 @@ Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL
 [telegram-news-badge]: https://img.shields.io/badge/demindis-Telegram-blue?style=flat&logo=Telegram
 [telegram-news]: https://t.me/demindis
 
-
-[![Yandex](https://img.shields.io/badge/-maxwelldenis888@yandex.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:deti200500@yandex.ru) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/demindis) [![Telegram][telegram-news-badge]][telegram-news]  ![](https://komarev.com/ghpvc/?username=demindis)
+ [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/demindis) [![Telegram][telegram-news-badge]][telegram-news]  ![](https://komarev.com/ghpvc/?username=demindis)
 
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
