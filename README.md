@@ -1,5 +1,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=demindis&theme=darkhub&no-bg=true&no-frame=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 Hi, I am Denis. Enthusiastic about the .NET C# platform, working with PostgreSQL, and chess :)
